@@ -3,6 +3,6 @@ Import-AzContext -Path $env:OneDriveCommercial\Технологии\Azure\_Profi
 
 $templateURI = "https://raw.githubusercontent.com/sergeyperus/azure-quickstart-templates/master/010-ARM-Lesson-1/azuredeploy.json"
 New-AzResourceGroupDeployment  `
-    -Name blanktemplate `
+    -Name addstorage `
     -ResourceGroupName "ARM-Lessons"  `
     -TemplateURI $templateURI
