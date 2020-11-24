@@ -4,7 +4,7 @@
     "resources": [    {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2019-04-01",
-      "name": "store1kjshlbjerbg",
+      "name": "store1kjshlbje6rbg",
       "location": "eastus",
       "sku": {
         "name": "Standard_LRS"
