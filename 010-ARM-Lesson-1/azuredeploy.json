@@ -5,7 +5,7 @@
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2019-04-01",
       "name": "store1kjshlbje6rbg",
-      "location": "eastus",
+      "location": "eastus2",
       "sku": {
         "name": "Standard_LRS"
       },
